@@ -1,3 +1,11 @@
+"""
+Linux Format Issue 199 Beginner Tutorial
+Build a digital dice using your Raspberry Pi
+
+All of this code is released under a Creative Commons Licence
+Circuit diagrams were produced using Fritzing http://fritzing.org/home/
+"""
+
 import RPi.GPIO as GPIO
 from time import sleep
 from random import randint
